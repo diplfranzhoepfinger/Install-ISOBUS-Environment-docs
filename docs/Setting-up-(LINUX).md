@@ -16,13 +16,9 @@ mkdir -p ~/esp
 cd ~/esp
 git clone --recursive https://github.com/espressif/esp-idf.git
 ```
-> ESP-IDF wird in diesen Ordner heruntergeladen:  `~/esp/esp-idf.`
+> ESP-IDF wird in diesen Ordner heruntergeladen:  `~/esp/esp-idf`
 
+Navigiere jetzt mit `cd ~/esp/esp-idf` in den Ordner. 
 
-
-```
-./install.sh
-
-/home/hoepffr/.espressif/python_env/idf4.3_py3.9_env/bin/python -m pip install --upgrade pip
-
-```
+Mache die Install Datei mit `chmod +x install.sh` ausführbar. Danach führe die Datei aus.
+`./install.sh`
