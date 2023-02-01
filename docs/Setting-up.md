@@ -1,7 +1,5 @@
 # Setting-up Installation
 
-[Heading](## Setting-up Schritt\_02:)
-
 ## Schritt 01:
 
 Hintergrundinfos gibt es hier:  
@@ -79,21 +77,21 @@ auch dieser Ordner darf keine Umlaute oder Leerzeichen haben
 
 ![](https://user-images.githubusercontent.com/69573151/124081200-86913e00-da4b-11eb-97c1-8a3e3532f13d.png)
 
-> ## Schritt 11: (nur Info>\`\_
+> ## Schritt 11: (nur Info)
 > 
 > idf.py menuconfig
 > 
 > idf.py build
 > 
-> \<https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html#step-6-connect-your-device
+> https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html#step-6-connect-your-device
 > 
-> \<https://docs.espressif.com/projects/esp-idf/en/latest/get-started/establish-serial-connection.html
+> https://docs.espressif.com/projects/esp-idf/en/latest/get-started/establish-serial-connection.html
 > 
-> \<https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
+> https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
 > 
-> \<https://www.ftdichip.com/Drivers/VCP.htm
+> https://www.ftdichip.com/Drivers/VCP.htm
 > 
-> \<https://docs.espressif.com/projects/espressif-esp-iot-solution/en/latest/hw-reference/ESP-Prog_guide.html
+> https://docs.espressif.com/projects/espressif-esp-iot-solution/en/latest/hw-reference/ESP-Prog_guide.html
 > 
 > idf.py flash
 > 
