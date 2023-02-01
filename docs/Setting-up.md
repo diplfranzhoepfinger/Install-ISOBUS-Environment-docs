@@ -9,8 +9,6 @@ Bitte prüfen Sie VORAB ob ihr Username unter C:\\Users ohne Umlaut und ohne Lee
 
 ansonsten bekommen Sie schwerwiegende Probleme. 
 
-M:\\Landmaschinenmechanik\\Unterricht\\SL\\esp-idf\\esp-idf-tools-setup-2.9.exe
-
 https://dl.espressif.com/dl/esp-idf/?idf=4.4
 
 https://dl.espressif.com/dl/esp-idf-tools-setup-online-2.9.exe
