@@ -99,7 +99,7 @@ auch dieser Ordner darf keine Umlaute oder Leerzeichen haben
 > 
 > so, hier könnte man von der Kommandozeile aus bereits arbeiten.
 > 
-> !\`Schritt\_12 \<https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/SettingUp/Schritt_12.png
+> ![]https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/SettingUp/Schritt_12.png
 
 ## Schritt 12:
 
