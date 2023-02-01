@@ -103,6 +103,8 @@ auch dieser Ordner darf keine Umlaute oder Leerzeichen haben
 
 ## Schritt 12:
 
+Öffnen Sie nun Eclipse und erstellen Sie sich einen neuen Workspace.
+
 ![](https://user-images.githubusercontent.com/69573151/124082234-c147a600-da4c-11eb-9f46-4c323b9664d6.png)
 
 ![](https://user-images.githubusercontent.com/69573151/124082195-b2f98a00-da4c-11eb-9750-39be52277e92.png)
