@@ -22,3 +22,5 @@ Navigiere jetzt mit `cd ~/esp/esp-idf` in den Ordner.
 
 Mache die Install Datei mit `chmod +x install.sh` ausführbar. Danach führe die Datei aus.
 `./install.sh`
+
+Fertig.
