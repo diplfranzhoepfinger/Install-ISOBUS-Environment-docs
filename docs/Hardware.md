@@ -11,22 +11,22 @@ Moped-Stecker
 Moped-Erweiterungen
 ```
 
-[atom_lite](https://docs.m5stack.com/#/en/core/atom_lite)
-
-[atom-lite-esp32-development-kit](https://m5stack.com/products/atom-lite-esp32-development-kit)
-
-[atomic](https://docs.m5stack.com/#/en/atom/atomic)
-
-[atomic-proto-kit](https://m5stack.com/products/atomic-proto-kit)
-
+> [atom_lite](https://docs.m5stack.com/#/en/core/atom_lite)
+> 
+> [atom-lite-esp32-development-kit](https://m5stack.com/products/atom-lite-esp32-development-kit)
+> 
+> [atomic](https://docs.m5stack.com/#/en/atom/atomic)
+> 
+> [atomic-proto-kit](https://m5stack.com/products/atomic-proto-kit)
+> 
 > [atom-echo-smart-speaker-dev-kit](https://m5stack.com/collections/m5-atom/products/atom-echo-smart-speaker-dev-kit)
->
+> 
 > [atomecho](https://docs.m5stack.com/#/en/atom/atomecho)
->
+> 
 > [atom-matrix-esp32-development-kit](https://m5stack.com/collections/m5-atom/products/atom-matrix-esp32-development-kit)
->
+> 
 > [atom_matrix](https://docs.m5stack.com/#/en/core/atom_matrix)
->
+> 
 > Zubehör: [m5-atom](https://m5stack.com/collections/m5-atom)
 
 Sie erhalten folgendes Set:
@@ -46,7 +46,7 @@ für den zweiten Versuch "ISOMAN" muss er auf das Kit aufgesetzt werden.
 
 an einer Stelle musste ich das Gehäuse etwas ausschneiden.
 
-das gelingt gut mit einem Seitenschneider (2x rein schneiden, abbrechen und mit einem Teppichmesser nachbearbeiten.
+das gelingt gut mit einem Seitenschneider (2x rein schneiden, abbrechen und mit einem Teppichmesser nachbearbeiten).
 
 > ACHTUNG !! Verletzungsgefahr.
 
