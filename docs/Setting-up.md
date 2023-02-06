@@ -1,7 +1,5 @@
 # Setting-up Installation
 
-[Heading](## Setting-up Schritt\_02:)
-
 ## Schritt 01:
 
 Hintergrundinfos gibt es hier:  
@@ -11,7 +9,7 @@ Bitte prüfen Sie VORAB ob ihr Username unter C:\\Users ohne Umlaut und ohne Lee
 
 ansonsten bekommen Sie schwerwiegende Probleme. 
 
-M:\\Landmaschinenmechanik\\Unterricht\\SL\\esp-idf\\esp-idf-tools-setup-2.9.exe
+Laden Sie sich die ESP-IDF Tools herunter.
 
 https://dl.espressif.com/dl/esp-idf/?idf=4.4
 
@@ -79,21 +77,21 @@ auch dieser Ordner darf keine Umlaute oder Leerzeichen haben
 
 ![](https://user-images.githubusercontent.com/69573151/124081200-86913e00-da4b-11eb-97c1-8a3e3532f13d.png)
 
-> ## Schritt 11: (nur Info>\`\_
+> ## Schritt 11: (nur Info)
 > 
 > idf.py menuconfig
 > 
 > idf.py build
 > 
-> \<https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html#step-6-connect-your-device
+> https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html#step-6-connect-your-device
 > 
-> \<https://docs.espressif.com/projects/esp-idf/en/latest/get-started/establish-serial-connection.html
+> https://docs.espressif.com/projects/esp-idf/en/latest/get-started/establish-serial-connection.html
 > 
-> \<https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
+> https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
 > 
-> \<https://www.ftdichip.com/Drivers/VCP.htm
+> https://www.ftdichip.com/Drivers/VCP.htm
 > 
-> \<https://docs.espressif.com/projects/espressif-esp-iot-solution/en/latest/hw-reference/ESP-Prog_guide.html
+> https://docs.espressif.com/projects/espressif-esp-iot-solution/en/latest/hw-reference/ESP-Prog_guide.html
 > 
 > idf.py flash
 > 
@@ -101,9 +99,11 @@ auch dieser Ordner darf keine Umlaute oder Leerzeichen haben
 > 
 > so, hier könnte man von der Kommandozeile aus bereits arbeiten.
 > 
-> !\`Schritt\_12 \<https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/SettingUp/Schritt_12.png
+> ![](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/SettingUp/Schritt_12.png)
 
 ## Schritt 12:
+
+Öffnen Sie nun Eclipse und erstellen Sie sich einen neuen Workspace.
 
 ![](https://user-images.githubusercontent.com/69573151/124082234-c147a600-da4c-11eb-9f46-4c323b9664d6.png)
 
