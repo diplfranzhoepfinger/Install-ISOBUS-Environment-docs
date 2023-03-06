@@ -8,6 +8,7 @@ Kalkulation-Hardware
 Atom-Erweiterungen
 HutschienenMoped
 HutschienenMoped-Stecker
+HutschienenMoped-Eingaenge
 HutschienenMoped-Erweiterungen
 ```
 
