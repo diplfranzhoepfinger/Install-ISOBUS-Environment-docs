@@ -54,4 +54,6 @@ Insgesamt ist die GMR-Zelle ein sehr vielseitiges Bauelement, das in vielen vers
 
 ## Anschluss Endschalter an Eingang
 
+![](https://cdn.shopify.com/s/files/1/0056/7689/2250/products/7_da00f974-6952-4ad6-9f08-beaab6c888d5_1200x1200.jpg?v=1655692121)
+
 ## Reihenschaltung von Endschaltern
