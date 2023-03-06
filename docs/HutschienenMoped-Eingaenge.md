@@ -1,6 +1,8 @@
 # HutschienenMoped Eingänge
 
-## Anschluss Endschalter an Eingang
+## Unterscheidung von Endschaltern für Pneumatikzylinder:
+
+[https://www.ifm.com/at/de/shared/produkte/zylindersensoren/technologie](https://www.ifm.com/at/de/shared/produkte/zylindersensoren/technologie)
 
 ### Reedschalter
 
@@ -19,6 +21,35 @@ Die wichtigsten Eigenschaften eines Reed-Schalters sind:
 
 [https://www.ifm.com/de/de/product/MR0100](https://www.ifm.com/de/de/product/MR0100)
 
-### Magnetschalter
+### AMR-Zelle
+
+Eine AMR-Zelle (Anisotropic Magnetoresistive Cell) ist eine Art von magnetoresistiver Zelle, die in der Halbleiter- und Magnetindustrie eingesetzt wird. Die AMR-Zelle besteht aus einem dünnen Schichtsystem aus ferromagnetischen und nicht-magnetischen Schichten, die auf einem Siliziumsubstrat aufgebracht sind.
+
+Die wichtigsten Eigenschaften einer AMR-Zelle sind:
+
+1.  Magnetische Empfindlichkeit: Die AMR-Zelle ist sehr empfindlich auf magnetische Felder und kann geringe magnetische Veränderungen erkennen.
+2.  Geringer Stromverbrauch: Die AMR-Zelle benötigt sehr wenig Strom, um zu funktionieren.
+3.  Hohe Genauigkeit: Die AMR-Zelle kann sehr präzise Messungen durchführen und ist daher ideal für Anwendungen, bei denen eine hohe Genauigkeit erforderlich ist, wie beispielsweise in der Magnetfeldsensorik.
+4.  Hohe Geschwindigkeit: Die AMR-Zelle kann sehr schnell auf Veränderungen des magnetischen Feldes reagieren und ist daher ideal für Anwendungen, die schnelle Messungen erfordern, wie beispielsweise in der Datenverarbeitung.
+5.  Geringe Kosten: Die AMR-Zelle ist vergleichsweise kostengünstig und einfach zu produzieren, was sie für eine Vielzahl von Anwendungen geeignet macht.
+
+Insgesamt ist die AMR-Zelle ein sehr vielseitiges Bauelement, das in vielen verschiedenen Anwendungen eingesetzt werden kann, von der Magnetfeldsensorik bis hin zur Datenverarbeitung und vielen anderen Bereichen.
+
+### GMR-Zelle
+
+Eine GMR-Zelle (Giant Magnetoresistive Cell) ist eine Art von magnetoresistiver Zelle, die in der Halbleiter- und Magnetindustrie eingesetzt wird. Die GMR-Zelle besteht aus mehreren dünnen Schichten aus ferromagnetischen und nicht-magnetischen Materialien, die in einer Schichtstruktur auf einem Substrat aufgebracht sind.
+
+Die wichtigsten Eigenschaften einer GMR-Zelle sind:
+
+1.  Hohe Empfindlichkeit: Die GMR-Zelle ist sehr empfindlich auf magnetische Felder und kann sehr geringe Veränderungen erkennen.
+2.  Hohe Genauigkeit: Die GMR-Zelle kann sehr präzise Messungen durchführen und ist daher ideal für Anwendungen, bei denen eine hohe Genauigkeit erforderlich ist, wie beispielsweise in der Magnetfeldsensorik.
+3.  Geringer Stromverbrauch: Die GMR-Zelle benötigt sehr wenig Strom, um zu funktionieren.
+4.  Hohe Geschwindigkeit: Die GMR-Zelle kann sehr schnell auf Veränderungen des magnetischen Feldes reagieren und ist daher ideal für Anwendungen, die schnelle Messungen erfordern, wie beispielsweise in der Datenverarbeitung.
+5.  Hohe Temperaturstabilität: Die GMR-Zelle ist sehr temperaturstabil und kann auch bei hohen Temperaturen eingesetzt werden.
+6.  Geringe Kosten: Die GMR-Zelle ist vergleichsweise kostengünstig und einfach zu produzieren, was sie für eine Vielzahl von Anwendungen geeignet macht.
+
+Insgesamt ist die GMR-Zelle ein sehr vielseitiges Bauelement, das in vielen verschiedenen Anwendungen eingesetzt werden kann, von der Magnetfeldsensorik bis hin zur Datenverarbeitung und vielen anderen Bereichen.
 
 [https://www.ifm.com/de/de/product/MK5117](https://www.ifm.com/de/de/product/MK5117)
+
+## Anschluss Endschalter an Eingang
