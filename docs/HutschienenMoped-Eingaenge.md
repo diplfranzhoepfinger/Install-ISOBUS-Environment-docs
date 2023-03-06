@@ -10,3 +10,4 @@
 
 ### Magnetschalter
 
+[https://www.ifm.com/de/de/product/MK5117](https://www.ifm.com/de/de/product/MK5117)
