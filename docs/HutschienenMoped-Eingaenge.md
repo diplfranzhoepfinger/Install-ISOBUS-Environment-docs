@@ -134,3 +134,7 @@ Weil:
 ## Reihenschaltung von Endschaltern
 
 [https://www.baumer.com/de/de/service-support/inbetriebnahme-montage/inbetriebnahme-und-montage-von-induktiven-sensoren/a/Know-how_Mounting_Inductive-sensors](https://www.baumer.com/de/de/service-support/inbetriebnahme-montage/inbetriebnahme-und-montage-von-induktiven-sensoren/a/Know-how_Mounting_Inductive-sensors)
+
+## ButtonBoards
+
+[https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ButtonBoards](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ButtonBoards)
