@@ -36,6 +36,12 @@ Eigenschaften des Reedschalters:
 
 [https://de.wikipedia.org/wiki/Magnetoresistiver_Effekt](https://de.wikipedia.org/wiki/Magnetoresistiver_Effekt)
 
+#### PNP Sensor
+
+![](https://user-images.githubusercontent.com/69573151/223118993-3d7325eb-8fa6-451e-b90b-1ac3028e7764.png)
+
+Quelle: [https://www.ifm.com/de/de/product/MK5140](https://www.ifm.com/de/de/product/MK5140)
+
 #### AMR-Zelle
 
 Eine AMR-Zelle (Anisotropic Magnetoresistive Cell) ist eine Art von magnetoresistiver Zelle, die in der Halbleiter- und Magnetindustrie eingesetzt wird. Die AMR-Zelle besteht aus einem dünnen Schichtsystem aus ferromagnetischen und nicht-magnetischen Schichten, die auf einem Siliziumsubstrat aufgebracht sind.
