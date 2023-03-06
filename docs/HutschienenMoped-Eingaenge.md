@@ -132,3 +132,5 @@ Weil:
 [https://www.distrelec.de/search?q=grove](https://www.distrelec.de/search?q=grove)
 
 ## Reihenschaltung von Endschaltern
+
+[https://www.baumer.com/de/de/service-support/inbetriebnahme-montage/inbetriebnahme-und-montage-von-induktiven-sensoren/a/Know-how_Mounting_Inductive-sensors](https://www.baumer.com/de/de/service-support/inbetriebnahme-montage/inbetriebnahme-und-montage-von-induktiven-sensoren/a/Know-how_Mounting_Inductive-sensors)
