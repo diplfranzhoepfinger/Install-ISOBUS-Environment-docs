@@ -36,6 +36,19 @@ Eigenschaften des Reedschalters:
 
 [https://de.wikipedia.org/wiki/Magnetoresistiver_Effekt](https://de.wikipedia.org/wiki/Magnetoresistiver_Effekt)
 
+Immer Angegeben: z.B.  5...36 V DC
+
+*   Minimal und Maximalspannung angegeben !!!
+*   Öffner: meist 3-Leiter-Technik
+*   Schließer: meist 3-Leiter-Technik
+*   Wechsler: 4-Leiter
+*   Stromrichtung: whichtig, siehe PNP/NPN, L+ L-
+    *   Masse-Klemme: nicht vorhanden
+    *   in der Regel keine LED (Sonderbauformen ausgenommen)
+    *   moderne Bauarten sind kurzschlussgeschützt, kann nicht durchbrennen
+
+Beispiel: [https://www.ifm.com/de/de/product/MK5214](https://www.ifm.com/de/de/product/MK5214) (kurzschussfest; überlastfest)
+
 #### PNP Sensor
 
 ![](https://user-images.githubusercontent.com/69573151/223118993-3d7325eb-8fa6-451e-b90b-1ac3028e7764.png)
