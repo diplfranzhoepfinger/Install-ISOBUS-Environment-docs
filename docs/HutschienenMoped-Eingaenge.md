@@ -96,4 +96,27 @@ Insgesamt ist die GMR-Zelle ein sehr vielseitiges Bauelement, das in vielen vers
 
 ![](https://cdn.shopify.com/s/files/1/0056/7689/2250/products/7_da00f974-6952-4ad6-9f08-beaab6c888d5_1200x1200.jpg?v=1655692121)
 
+M5 Stack: 
+
+Eingangsspannung am Pin: 
+
+3.3V
+
+Spannung vom Sensor: 
+
+5V
+
+Spannungsteiler: 
+
+![](https://user-images.githubusercontent.com/69573151/223125789-46ed37a7-2fca-48a4-8d62-4cc9b57bb5f4.png)
+
+[https://www.digikey.de/de/resources/conversion-calculators/conversion-calculator-voltage-divider](https://www.digikey.de/de/resources/conversion-calculators/conversion-calculator-voltage-divider)
+
+in der Praxis: 
+
+1.  Widerstand 1800Ohm
+2.  Widerstand 3300Ohm
+
+![](https://user-images.githubusercontent.com/69573151/223126038-5d9b7d5e-2608-4ebf-8e39-4226a0df0cd0.png)
+
 ## Reihenschaltung von Endschaltern
