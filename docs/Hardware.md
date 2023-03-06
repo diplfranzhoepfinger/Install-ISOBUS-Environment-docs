@@ -7,8 +7,8 @@ Lego
 Kalkulation-Hardware
 Atom-Erweiterungen
 HutschienenMoped
-Moped-Stecker
-Moped-Erweiterungen
+HutschienenMoped-Stecker
+HutschienenMoped-Erweiterungen
 ```
 
 > [atom_lite](https://docs.m5stack.com/#/en/core/atom_lite)
