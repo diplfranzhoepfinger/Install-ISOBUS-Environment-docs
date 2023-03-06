@@ -21,7 +21,11 @@ Die wichtigsten Eigenschaften eines Reed-Schalters sind:
 
 [https://www.ifm.com/de/de/product/MR0100](https://www.ifm.com/de/de/product/MR0100)
 
-### AMR-Zelle
+### Magnetsensoren mit Halbleitertechnik
+
+[https://de.wikipedia.org/wiki/Magnetoresistiver_Effekt](https://de.wikipedia.org/wiki/Magnetoresistiver_Effekt)
+
+#### AMR-Zelle
 
 Eine AMR-Zelle (Anisotropic Magnetoresistive Cell) ist eine Art von magnetoresistiver Zelle, die in der Halbleiter- und Magnetindustrie eingesetzt wird. Die AMR-Zelle besteht aus einem dünnen Schichtsystem aus ferromagnetischen und nicht-magnetischen Schichten, die auf einem Siliziumsubstrat aufgebracht sind.
 
@@ -35,7 +39,7 @@ Die wichtigsten Eigenschaften einer AMR-Zelle sind:
 
 Insgesamt ist die AMR-Zelle ein sehr vielseitiges Bauelement, das in vielen verschiedenen Anwendungen eingesetzt werden kann, von der Magnetfeldsensorik bis hin zur Datenverarbeitung und vielen anderen Bereichen.
 
-### GMR-Zelle
+#### GMR-Zelle
 
 Eine GMR-Zelle (Giant Magnetoresistive Cell) ist eine Art von magnetoresistiver Zelle, die in der Halbleiter- und Magnetindustrie eingesetzt wird. Die GMR-Zelle besteht aus mehreren dünnen Schichten aus ferromagnetischen und nicht-magnetischen Materialien, die in einer Schichtstruktur auf einem Substrat aufgebracht sind.
 
