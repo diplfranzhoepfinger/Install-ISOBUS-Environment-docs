@@ -42,7 +42,7 @@ Eigenschaften des Reedschalters:
 
 Quelle: [https://www.ifm.com/de/de/product/MK5140](https://www.ifm.com/de/de/product/MK5140)
 
-NPN - Sensor
+#### NPN - Sensor
 
 ![](https://user-images.githubusercontent.com/69573151/223119312-1da2bd00-5cbf-4606-bea7-73da028c0ae0.png)
 
