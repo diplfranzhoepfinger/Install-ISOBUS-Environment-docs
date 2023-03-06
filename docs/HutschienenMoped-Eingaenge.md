@@ -19,7 +19,7 @@ Die wichtigsten Eigenschaften eines Reed-Schalters sind:
 
 [https://de.wikipedia.org/wiki/Reedschalter](https://de.wikipedia.org/wiki/Reedschalter)
 
-Eigenschaften des Reedschalters: 
+Eigenschaften des Reedschalters:
 
 *   Öffner: immer 2-Leiter-Technik
 *   Schließer: immer 2-Leiter-Technik
@@ -28,6 +28,7 @@ Eigenschaften des Reedschalters:
 *   Stromrichtung: egal
     *   Masse-Klemme: nicht vorhanden
     *   in der Regel keine LED (Sonderbauformen ausgenommen)
+    *   nicht kurzschlussgeschützt !!!
 
 [https://www.ifm.com/de/de/product/MR0100](https://www.ifm.com/de/de/product/MR0100)
 
