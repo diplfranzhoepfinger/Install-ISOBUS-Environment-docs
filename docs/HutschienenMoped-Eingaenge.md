@@ -53,3 +53,5 @@ Insgesamt ist die GMR-Zelle ein sehr vielseitiges Bauelement, das in vielen vers
 [https://www.ifm.com/de/de/product/MK5117](https://www.ifm.com/de/de/product/MK5117)
 
 ## Anschluss Endschalter an Eingang
+
+## Reihenschaltung von Endschaltern
