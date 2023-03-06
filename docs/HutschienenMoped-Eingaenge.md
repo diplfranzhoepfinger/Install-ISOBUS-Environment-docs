@@ -42,6 +42,12 @@ Eigenschaften des Reedschalters:
 
 Quelle: [https://www.ifm.com/de/de/product/MK5140](https://www.ifm.com/de/de/product/MK5140)
 
+NPN - Sensor
+
+![](https://user-images.githubusercontent.com/69573151/223119312-1da2bd00-5cbf-4606-bea7-73da028c0ae0.png)
+
+Quelle: [https://www.ifm.com/de/de/product/MK5309](https://www.ifm.com/de/de/product/MK5309)
+
 #### AMR-Zelle
 
 Eine AMR-Zelle (Anisotropic Magnetoresistive Cell) ist eine Art von magnetoresistiver Zelle, die in der Halbleiter- und Magnetindustrie eingesetzt wird. Die AMR-Zelle besteht aus einem dünnen Schichtsystem aus ferromagnetischen und nicht-magnetischen Schichten, die auf einem Siliziumsubstrat aufgebracht sind.
