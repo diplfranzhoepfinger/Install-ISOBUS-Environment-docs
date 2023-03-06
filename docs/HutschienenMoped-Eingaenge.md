@@ -117,10 +117,18 @@ in der Praxis:
 1.  Widerstand 1800Ohm
 2.  Widerstand 3300Ohm
 
-Weil: 
+Weil:
 
 [https://www.electronicsplanet.ch/Widerstand/Widerstandsreihe-E24.htm](https://www.electronicsplanet.ch/Widerstand/Widerstandsreihe-E24.htm)
 
 ![](https://user-images.githubusercontent.com/69573151/223126038-5d9b7d5e-2608-4ebf-8e39-4226a0df0cd0.png)
+
+## Grove System
+
+[https://www.seeedstudio.com/category/Grove-c-1003.html](https://www.seeedstudio.com/category/Grove-c-1003.html)
+
+[https://www.exp-tech.de/seeed-grove-wiki](https://www.exp-tech.de/seeed-grove-wiki)
+
+[https://www.distrelec.de/search?q=grove](https://www.distrelec.de/search?q=grove)
 
 ## Reihenschaltung von Endschaltern
