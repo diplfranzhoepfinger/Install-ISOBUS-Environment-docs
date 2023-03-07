@@ -45,3 +45,8 @@ cci_EasyExample_CAN2IP
 Optional
 genindex
 ```
+
+# Indices and tables
+
+- {ref}`genindex`
+- {ref}`search`
