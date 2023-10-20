@@ -1,4 +1,4 @@
-# Install-ISOBUS-Environment-docs
+# Wiki 1: Install-ISOBUS-Environment-docs
 
 [https://install-isobus-environment-docs.readthedocs.io/de/latest/](https://install-isobus-environment-docs.readthedocs.io/de/latest/)
 
@@ -19,7 +19,7 @@ Wiki 0: [Wiki](https://docs.ms-muc-docs.de) das "über" Wiki
 
 > ein Suche im über Wiki findet Ergebnisse aus allen 5 Wikis
 
-## Wiki 1
+## Wiki 1: Install-ISOBUS-Environment-docs
 
 Wiki 1: [Wiki](https://docs.ms-muc-docs.de/projects/install-isobus-environment-docs/) Install-ISOBUS-Environment
 
