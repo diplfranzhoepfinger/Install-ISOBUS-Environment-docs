@@ -1,6 +1,6 @@
 # Wiki 1: Install-ISOBUS-Environment-docs
 
-[https://install-isobus-environment-docs.readthedocs.io/de/latest/](https://install-isobus-environment-docs.readthedocs.io/de/latest/)
+[https://docs.ms-muc-docs.de/projects/install-isobus-environment-docs/](https://docs.ms-muc-docs.de/projects/install-isobus-environment-docs/)
 
 
 
