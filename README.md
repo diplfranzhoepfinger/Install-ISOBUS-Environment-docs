@@ -23,18 +23,18 @@ Wiki 0: [Wiki](https://docs.ms-muc-docs.de) das "über" Wiki
 
 Wiki 1: [Wiki](https://docs.ms-muc-docs.de/projects/install-isobus-environment-docs/) Install-ISOBUS-Environment
 
-## Wiki 2
+## Wiki 2: ISOBUS-VT-Objects
 
 Wiki 2: [Wiki](https://docs.ms-muc-docs.de/projects/isobus-vt-objects-docs/) ISOBUS-VT-Objects
 
-## Wiki 3
+## Wiki 3: ISOBUS-other
 
 Wiki 3: [Wiki](https://docs.ms-muc-docs.de/projects/isobus-other-docs/) ISOBUS-other
 
-## Wiki 4
+## Wiki 4: visual-programming-languages
 
 Wiki 4: [Wiki](https://docs.ms-muc-docs.de/projects/visual-programming-languages-docs/) visual-programming-languages
 
-## Wiki 5
+## Wiki 5: Werkzeug
 
 Wiki 5: [Wiki](https://docs.ms-muc-docs.de/projects/werkzeug-docs/) Werkzeug
