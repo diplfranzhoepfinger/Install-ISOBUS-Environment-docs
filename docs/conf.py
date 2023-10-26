@@ -6,9 +6,11 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = "Install-ISOBUS-Environment Docs"
-copyright = "2022, Meisterschulen am Ostbahnhof, München"
+project = "Wiki 1: Install-ISOBUS-Environment Docs"
+copyright = "2022-2023, Meisterschulen am Ostbahnhof, München"
 author = "Franz Höpfinger"
+
+html_baseurl = "https://docs.ms-muc-docs.de/projects/install-isobus-environment-docs/de/latest/"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
