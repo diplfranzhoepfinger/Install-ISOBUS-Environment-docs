@@ -1,5 +1,8 @@
 # Wiki 1: Install-ISOBUS-Environment-docs
 
+![franz0748_a_new_Logo_for_Install-ISOBUS-Environment_--v_6_636e42eb-92e6-48c1-b8f7-d8e56e2ee6be](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/assets/69573151/785faf99-23b4-43a1-b934-6f3213192517)
+
+
 [https://docs.ms-muc-docs.de/projects/install-isobus-environment-docs/](https://docs.ms-muc-docs.de/projects/install-isobus-environment-docs/)
 
 
