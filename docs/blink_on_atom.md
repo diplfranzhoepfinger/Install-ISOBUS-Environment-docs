@@ -1,6 +1,6 @@
 # blink_on_atom
 
-\## Schritt_14:
+### Schritt_14:
 
 Jetzt kann man Eclipse wirklich starten:
 
@@ -13,19 +13,19 @@ C:\\git\\blink_on_atom\\eclipse-workspace
 ```{image} https://user-images.githubusercontent.com/69573151/92934821-3effde00-f448-11ea-9631-7ec96373413a.png
 ```
 
-\## Schritt_15:
+### Schritt_15:
 
 Workbench --> Hide (rechts oben>\`\_
 
 ```{image} https://user-images.githubusercontent.com/69573151/124086686-9744b280-da51-11eb-847c-1629d53d2afb.png
 ```
 
-\## Schritt_16:
+### Schritt_16:
 
 ```{image} https://user-images.githubusercontent.com/69573151/124086737-a4fa3800-da51-11eb-8438-b356d0efb55f.png
 ```
 
-\## Schritt_17:
+### Schritt_17:
 
 gehen Sie jetzt auf Import Projects
 
@@ -52,7 +52,7 @@ siehe: \<<https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md#
 
 YES
 
-\## Schritt_18:
+### Schritt_18:
 
 ```{image} https://user-images.githubusercontent.com/69573151/124087513-5bf6b380-da52-11eb-905d-8f1383d09acc.png
 ```
@@ -63,7 +63,7 @@ C:\\Users\\Lehrer\\.espressif\\tools\\idf-git\\2.30.1\\cmd\\git.exe
 
 C:\\Users\\Lehrer\\.espressif\\python_env\\idf4.3_py3.8_env\\Scripts\\python.exe
 
-\## Schritt_20:
+### Schritt_20:
 
 \<<https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md#configuring-launch-target>
 
@@ -73,7 +73,7 @@ C:\\Users\\Lehrer\\.espressif\\python_env\\idf4.3_py3.8_env\\Scripts\\python.exe
 ```{image} https://user-images.githubusercontent.com/69573151/124087878-ba239680-da52-11eb-8555-cc85060ff2ce.png
 ```
 
-\## Schritt_21
+### Schritt_21
 
 Drücken Sie dann erst den Hammer,
 
@@ -115,9 +115,9 @@ und der ATOM sollte blinken.
 
 machen Sie sich mit dem Programm vertraut.
 
-\## Schritt_22
+### Schritt_22
 
-\<<https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md#viewing-serial-output>
+<https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md#viewing-serial-output>
 
 ```{image} https://user-images.githubusercontent.com/69573151/92991167-1fb58f00-f4e2-11ea-824b-ba9b15978dec.png
 ```
@@ -125,7 +125,7 @@ machen Sie sich mit dem Programm vertraut.
 ```{image} https://user-images.githubusercontent.com/69573151/92991174-2c39e780-f4e2-11ea-82ce-e757c7c6df74.png
 ```
 
-\## Programm verändern
+### Programm verändern
 
 verändern Sie zum Beispiel die CHASE_SPEED auf 10ms,
 
