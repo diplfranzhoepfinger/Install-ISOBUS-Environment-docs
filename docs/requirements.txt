@@ -4,3 +4,4 @@ sphinx
 sphinxcontrib.mermaid
 sphinx-markdown-tables
 
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
